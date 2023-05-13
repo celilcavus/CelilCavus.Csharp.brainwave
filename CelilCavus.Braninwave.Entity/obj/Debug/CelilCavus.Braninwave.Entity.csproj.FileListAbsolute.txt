@@ -1,0 +1,6 @@
+D:\Software\WinMvc\CelilCavus.Braninwave\CelilCavus.Braninwave.Entity\bin\Debug\CelilCavus.Braninwave.Entity.dll
+D:\Software\WinMvc\CelilCavus.Braninwave\CelilCavus.Braninwave.Entity\bin\Debug\CelilCavus.Braninwave.Entity.pdb
+D:\Software\WinMvc\CelilCavus.Braninwave\CelilCavus.Braninwave.Entity\obj\Debug\CelilCavus.Braninwave.Entity.csproj.AssemblyReference.cache
+D:\Software\WinMvc\CelilCavus.Braninwave\CelilCavus.Braninwave.Entity\obj\Debug\CelilCavus.Braninwave.Entity.csproj.CoreCompileInputs.cache
+D:\Software\WinMvc\CelilCavus.Braninwave\CelilCavus.Braninwave.Entity\obj\Debug\CelilCavus.Braninwave.Entity.dll
+D:\Software\WinMvc\CelilCavus.Braninwave\CelilCavus.Braninwave.Entity\obj\Debug\CelilCavus.Braninwave.Entity.pdb

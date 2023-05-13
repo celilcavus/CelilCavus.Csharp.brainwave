@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "Services";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model List<Services>
+
+<section class="do_section layout_padding">
+    <div class="container">
+        <div class="custom_heading-container">
+            <h2>
+                What we do
+            </h2>
+        </div>
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-3 col-sm-6">
+                    <div class="content-box bg-red">
+                        <div class="img-box">
+                            <img src="~/Content/images/idea.png" alt="" />
+                        </div>
+                        <div class="detail-box">
+                            <h6>
+                                @item.Title
+                            </h6>
+                            <p>
+                                @item.Description
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+</section>
+
